@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Glados\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Glados\\.nuget\\packages"
+    ]
+  }
+}
